@@ -1,0 +1,39 @@
+body{
+	background-color: lightblue;
+	font-style: oblique;
+	font-weight: bold;
+	
+}
+.loo{
+	margin: auto;
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	text-align: center;
+	background-color:#0f9de8;
+}
+h1{
+	height: auto;
+	padding-top: 80px;
+	color: white;
+}
+.pin{
+	margin:auto;
+	width: 650px;
+	background-color:#0f9de8;
+	height: 400px;
+	margin-top: 40px;
+	text-decoration: underline;
+
+}
+fieldset{
+	margin-top: -25px;
+}
+input{
+	padding: 3px;
+	margin: 4px;
+}
+.pol{
+	position:relative;
+	padding-top:160px;
+}
